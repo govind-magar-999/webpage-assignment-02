@@ -5,4 +5,4 @@
   [https://restaurant-homepage-by-govind.netlify.app/](https://restaurant-homepage-by-govind.netlify.app/)
   
  - Screenshot:
-   ![Snapshot of entire page](https://tinyurl.com/23pnwkn8)
+   ![Snapshot of entire page](https://github.com/govind-magar-999/webpage-assignment-02/blob/main/thumbnail.png)
